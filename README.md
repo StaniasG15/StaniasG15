@@ -1,4 +1,5 @@
-Hola! 
+Hello there!
 
-Estoy aprendiendo Python, diría que tengo un conocimiento básico-intermedio del lenguaje.
-Quiero aprender haciendo porque siento que es la manera más eficaz de aprender.
+I'm a cybersecurity student focuesed in IAM and PAM. This repo is a portfolio for all type of projects, home labs and built in apps I build during the way of me accomplishing college.
+
+Thank you for reading this brief description of me and enjoy! :)
